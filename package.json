@@ -1,0 +1,9 @@
+
+{
+  "name": "grow-a-garden-marketplace",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "stripe": "^12.0.0"
+  }
+}
